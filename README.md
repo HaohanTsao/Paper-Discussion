@@ -1,7 +1,7 @@
 # 論文分享 Paper-Discussion
 我用中文在Medium分享我讀過的學術論文，內容包括最新的人工智慧發展、對學術有重大影響的研究、其他資料科學領域的論文，都是我覺得十分值得細讀的主題，歡迎與我討論和交流。
 
-I write articles to share worth-reading papers in Mandarin and post on Medium.  The topics cover the latest developments in AI, classic and significant research studies, and interesting papers about data science.
+I write articles in Mandarin to share worth-reading papers in Mandarin and post on Medium.  The topics cover the latest developments in AI, classic and significant research studies, and interesting papers about data science.
 ## 主頁連結 Homepage
 [Andy Tsao](https://medium.com/@andy94729)
 
