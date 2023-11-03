@@ -10,7 +10,7 @@ I write articles to share worth-reading papers in Mandarin and post on Medium.  
 | Gorilla AI | [Medium](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-gorilla-large-language-model-connected-with-massive-apis-60f18c59b6ba) |
 | Airbnb Search Ranking | [Medium](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-real-time-personalization-using-embeddings-for-search-ranking-at-airbnb-%E4%B8%8A-748d5831de05) |
 | Cloud Incidents Mitigation with LLM | [Medium](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-recommending-root-cause-and-mitigation-steps-for-cloud-incidents-using-large-language-models-34bed0c5ccf3) |
-| TPU runtime Prediction | [Medium]([https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-longnet-scaling-transformers-to-1-000-000-000-tokens-2e817943184e](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-a-learned-performance-model-for-tensor-processing-units-fbb3ce98df26)) |
+| TPU runtime Prediction | [Medium](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-a-learned-performance-model-for-tensor-processing-units-fbb3ce98df26) |
 | EfficientNet | [Medium](https://medium.com/@andy94729/%E8%AB%96%E6%96%87%E7%A0%94%E8%A8%8E-efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-2c63204147d1) |
 
 
